@@ -97,4 +97,8 @@ orange();
 if (incomingByte=='3'){
   green();
 }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a1a24ccae248223ed8d632a498ddfbc23ae5300c
